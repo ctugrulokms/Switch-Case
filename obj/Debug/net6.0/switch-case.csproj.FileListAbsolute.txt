@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/bin/Debug/net6.0/switch-case
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/bin/Debug/net6.0/ref/switch-case.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/bin/Debug/net6.0/switch-case.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/ref/switch-case.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
